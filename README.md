@@ -40,7 +40,7 @@ Open a terminal and run the following commands:
 
 `chsh -s $(which zsh)`
 
-## Install Powerlevel10k
+## Install Powerlevel10k for oh-my-zsh
 
 Open a terminal and run the following commands:
 
