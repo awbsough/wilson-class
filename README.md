@@ -34,7 +34,7 @@ Open a terminal and run the following commands:
 
 `sudo apt update`
 
-`sudo apt install zsh`
+`sudo apt install git zsh`
 
 `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
