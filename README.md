@@ -1,7 +1,6 @@
 # Setting up your Development Environment 
 
 ## Install WSL:
-
 Run Powershell as Administrator and run the following command:
 
 `wsl --install`
@@ -45,3 +44,5 @@ Open a terminal and run the following commands:
 Open a terminal and run the following commands:
 
 `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k`
+
+Edit .zshrc and change the theme to powerlevel10k/powerlevel10k
